@@ -1,0 +1,5 @@
+package ShopNova.Eccomerce.Authentication;
+
+public class UserPrincipal {
+
+}
